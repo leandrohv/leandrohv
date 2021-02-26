@@ -10,6 +10,7 @@ Talk to me 👇🏼
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leandrohilariovenancio@gmail.com)](mailto:leandrohilariovenancio@gmail.com)
 [![](https://img.shields.io/badge/-Rocketseat-purple?style=flat-square&logo=&logoColor=6633cc&link=https://app.rocketseat.com.br/me/leandro-venancio)](https://app.rocketseat.com.br/me/leandro-venancio)
 [![](https://img.shields.io/badge/-YouTube-c4302b?style=flat-square&logo=&logoColor=6633cc&link=https://www.youtube.com/channel/UCe0Ib3tzuuOt0lu8vaYnf7g)](https://www.youtube.com/channel/UCe0Ib3tzuuOt0lu8vaYnf7g)
+[![HitCount](http://hits.dwyl.com/leandrohv/leandrohv.svg)](http://hits.dwyl.com/leandrohv/leandrohv)
 
 A person who loves to learn everything about technology, management and business processes and laws. 👨‍💻 :balance_scale:
 ##### 🔍 Always open to new opportunities.
